@@ -1,0 +1,20 @@
+ATTENTION DISTRIBUTION ANALYSIS
+
+0000001_crop_0 -> spread = 94392.75
+0000002_crop_0 -> spread = 67912.25
+0000002_crop_1 -> spread = 54547.69
+0000004_crop_0 -> spread = 37941.82
+0000004_crop_1 -> spread = 36335.24
+0000004_crop_2 -> spread = 86786.80
+0000004_crop_3 -> spread = 71327.15
+0000006_crop_0 -> spread = 32101.23
+0000008_crop_0 -> spread = 70005.68
+0000103_crop_0 -> spread = 56157.65
+0000103_crop_1 -> spread = 42193.03
+0000103_crop_2 -> spread = 24335.42
+0000103_crop_3 -> spread = 73694.15
+0000103_crop_4 -> spread = 134780.98
+
+GLOBAL ANALYSIS
+Mean spread: 63036.56
+Std spread: 28410.91

@@ -1,0 +1,43 @@
+AVERAGE COVARIANCE MATRIX SUMMARY
+
+Session / Doctor: 0000001
+Mean covariance matrix with standard deviation:
+[
+  [168578.66 ± 0.00, -7883.37 ± 0.00]
+  [-7883.37 ± 0.00, 20206.83 ± 0.00]
+]
+
+Session / Doctor: 0000002
+Mean covariance matrix with standard deviation:
+[
+  [90501.01 ± 15615.72, -7085.84 ± 377.86]
+  [-7085.84 ± 377.86, 31958.93 ± 2251.15]
+]
+
+Session / Doctor: 0000004
+Mean covariance matrix with standard deviation:
+[
+  [92806.44 ± 43858.17, -4424.86 ± 3374.45]
+  [-4424.86 ± 3374.45, 23389.06 ± 2440.92]
+]
+
+Session / Doctor: 0000006
+Mean covariance matrix with standard deviation:
+[
+  [48917.57 ± 0.00, -4477.73 ± 0.00]
+  [-4477.73 ± 0.00, 15284.88 ± 0.00]
+]
+
+Session / Doctor: 0000008
+Mean covariance matrix with standard deviation:
+[
+  [107606.90 ± 0.00, -32026.61 ± 0.00]
+  [-32026.61 ± 0.00, 32404.46 ± 0.00]
+]
+
+Session / Doctor: 0000103
+Mean covariance matrix with standard deviation:
+[
+  [106225.93 ± 68198.18, -5474.15 ± 6231.77]
+  [-5474.15 ± 6231.77, 26238.56 ± 10372.85]
+]
